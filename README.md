@@ -99,7 +99,7 @@ An interactive **Power BI Customer Behavior Dashboard** was created to visualize
   - Shipping type
 
 ### Dashboard Screenshot:
-![Customer Behavior Dashboard] (customer_behavior.png)
+![Customer Behavior Dashboard](customer_behavior.png)
 
 This dashboard enables stakeholders to quickly explore trends, compare segments, and make informed business decisions.
 
